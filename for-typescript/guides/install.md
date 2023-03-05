@@ -1,6 +1,6 @@
 ### Установка TypeScript на Debian
 
-#### Установка nmp
+#### Установка npm
 Для того чтобы установить TypeScript, нам нужно поставить npm (Node Package Manager). Пропишем следующие команды:
 ```bash
 sudo apt install npm
